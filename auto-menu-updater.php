@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Automatic Menu Updater
  * Description: Updates WordPress menus automatically via API calls, supporting multi-level menus and all menu attributes.
- * Version: 1.0
+ * Version: 1.1
  * Author: Vishnu Soman U S
  */
 
