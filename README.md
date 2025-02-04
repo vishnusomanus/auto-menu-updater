@@ -196,11 +196,6 @@ The plugin supports the following cron intervals:
 *   Initial release with basic menu updating functionality.
     
 
-**License**
------------
-
-This plugin is licensed under the **GPLv2** or later.
-
 **Contributing**
 ----------------
 
