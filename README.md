@@ -204,9 +204,9 @@ This plugin is licensed under the **GPLv2** or later.
 **Contributing**
 ----------------
 
-Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/your-repo/auto-menu-updater).
+Contributions are welcome! Please open an issue or submit a pull request on [GitHub](https://github.com/vishnusomanus/auto-menu-updater).
 
 **Support**
 -----------
 
-For support, please open an issue on [GitHub](https://github.com/your-repo/auto-menu-updater) or contact the developer directly.
+For support, please open an issue on [GitHub](https://github.com/vishnusomanus/auto-menu-updater) or contact the developer directly.
