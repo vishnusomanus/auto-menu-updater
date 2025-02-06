@@ -2,7 +2,7 @@
 Contributors: vishnusomanus
 Tags: menu, API, automatic update, cron, WordPress menu
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.1
 License: GPL-2.0-or-later
@@ -12,9 +12,9 @@ A WordPress plugin that automatically updates WordPress menus via API calls. It 
 
 == Description ==
 
-Automatic Menu Updater is a WordPress plugin that dynamically updates menus using data fetched from an external API. The plugin supports hierarchical menus, various menu attributes, and customizable cron intervals.
+Automatic Menu Updater dynamically updates WordPress menus from an API, supporting hierarchy, attributes, and customizable cron intervals.
 
-Features:
+== Features ==
 
 API Integration: Fetches menu data from an external API.
 
